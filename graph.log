@@ -1,0 +1,27 @@
+* 81ebdcf Agregando dos parrafos
+*   ea0a618 Resolviendo conflicto en estaciones anulanes y fecha de inicio
+|\  
+| * d60e829 Agregando las estaciones anuales
+* | a2c1eef Agregando estaciones anuales con fecha
+|/  
+*   c582475 Resolviendo conflicto marge main/html en el documento index.html
+|\  
+| * 798c962 Agregando index.js a index.html
+* | e115b7a Agregando style.css al index.html
+* |   714b189 Merge branch 'js'
+|\ \  
+| * | 6d0fbbf Creando index.js
+* | | 3d4a023 Creando style.css
+| |/  
+|/|   
+* | 278cd6f Creando index.html
+|/  
+* fa15512 Ignorando archivos .exe
+*   3a78434 Merge branch 'master' of https://github.com/mike0990/git-mircha
+|\  
+| * 74dc75a Creando licencia del repositorio
+* | b90da60 Arreglando el contenido de README
+|/  
+* 0c73c85 Agregando mas contenido al README
+* 60bbebb Agregando contenido inicial al README
+* 4baee76 Primer commit

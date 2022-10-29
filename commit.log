@@ -1,0 +1,111 @@
+commit 81ebdcfe86ceb0bb3a89c08cd7ccc98440e5cf6c
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 18:20:35 2022 +0200
+
+    Agregando dos parrafos
+
+commit ea0a6182201f7926277a17b0eafdeb3a6ba50b93
+Merge: a2c1eef d60e829
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 18:16:47 2022 +0200
+
+    Resolviendo conflicto en estaciones anulanes y fecha de inicio
+
+commit a2c1eefbda2e5c09275cd797421aa44fb40f3578
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 17:56:09 2022 +0200
+
+    Agregando estaciones anuales con fecha
+
+commit d60e829af03a77459e3eb29a8e68c3e570af7066
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 17:56:09 2022 +0200
+
+    Agregando las estaciones anuales
+
+commit c582475c6516a88b80ce9032cdb71b02ab103f87
+Merge: e115b7a 798c962
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 14:00:00 2022 +0200
+
+    Resolviendo conflicto marge main/html en el documento index.html
+
+commit 798c962b6b7512bfb614a9d166ff0916e6515cf4
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 13:50:51 2022 +0200
+
+    Agregando index.js a index.html
+
+commit e115b7ad0f379a58a0eeffd3852808e078495247
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 13:47:27 2022 +0200
+
+    Agregando style.css al index.html
+
+commit 714b1899b0351eed0c18309176d3dc374f90886b
+Merge: 3d4a023 6d0fbbf
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 13:34:26 2022 +0200
+
+    Merge branch 'js'
+
+commit 6d0fbbf5615094bbde43d1a5335d72a031692ad3
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 13:28:50 2022 +0200
+
+    Creando index.js
+
+commit 3d4a023a80188f65783544892a88184fea4e3bd5
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 13:23:40 2022 +0200
+
+    Creando style.css
+
+commit 278cd6fef1a8dc820f36963530e186114c46ba11
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 13:17:23 2022 +0200
+
+    Creando index.html
+
+commit fa155121cec54e68dfda845a310dcc24ad7d5b76
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 12:55:24 2022 +0200
+
+    Ignorando archivos .exe
+
+commit 3a78434dab6bb8eddef4068c5cbd29b69920b962
+Merge: b90da60 74dc75a
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 11:42:47 2022 +0200
+
+    Merge branch 'master' of https://github.com/mike0990/git-mircha
+
+commit b90da60da6dc304b3c049de152a47eda55628b7d
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 11:41:07 2022 +0200
+
+    Arreglando el contenido de README
+
+commit 74dc75a45c7cd8f8415191cfc959086aa3a34329
+Author: mike0990 <56478824+mike0990@users.noreply.github.com>
+Date:   Sat Oct 29 11:34:52 2022 +0200
+
+    Creando licencia del repositorio
+
+commit 0c73c851730942cad71cecec0d6267959d5d0dbc
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Sat Oct 29 00:27:25 2022 +0200
+
+    Agregando mas contenido al README
+
+commit 60bbebbcae4ad5181f98a17ef7510a6c28f8b626
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Fri Oct 28 23:56:27 2022 +0200
+
+    Agregando contenido inicial al README
+
+commit 4baee76d67f96a65fea8dc84b2a3e7bf2ce5249e
+Author: Michael Hermoza Ramirez <janpiere.hermozaramirez@gmail.com>
+Date:   Fri Oct 28 23:48:37 2022 +0200
+
+    Primer commit
