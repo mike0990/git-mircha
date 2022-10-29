@@ -2,4 +2,4 @@
 
 Continuar con el curso de markdown
 
-Agregando mas contenido al README
+Agregando mas contenido al _README.md_
